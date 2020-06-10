@@ -1,0 +1,188 @@
+{
+	"album_hits": [
+		{
+			"type": "3",
+			"album": {
+				"kind": "sj#album",
+				"name": "Who Can It Be Now",
+				"albumArtist": "Blowfelt & Men at Work",
+				"albumArtRef": "http://lh5.ggpht.com/nLcK4NfHXUsa5sPHISq6JNFWNGoPbfNkwCQ3L0Qn2_23zrS_wmy5NxlGLC2jWmOrGDrLkQQJ",
+				"albumId": "Bebkrlnnzsy4bft6smkro2mulbu",
+				"artist": "Blowfelt & Men at Work",
+				"artistId": ["A5xnh4xleu6rcdclvlfbl6rlgpq"],
+				"year": 2014,
+				"explicitType": "2"
+			},
+			"cluster": [
+				{
+					"type": "3",
+					"category": "1",
+					"id": "search_album"
+				}
+			]
+		},
+	],
+	"artist_hits": [],
+	"playlist_hits": [],
+	"genre_hits": [],
+	"podcast_hits": [
+		{
+			"type": "9",
+			"series": {
+				"seriesId": "Iaomoxfryvfz2sjaiv4fv7tfebm",
+				"title": "Work on the Edge Podcast",
+				"author": "Nick Frankus: High Stakes Professional, Trainer, Speaker",
+				"description": "The Work on the Edge Podcast, hosted by Nick Frankus, is...",
+				"art": [
+					{
+						"kind": "sj#imageRef",
+						"url": "https://lh3.googleusercontent.com/2vGfaGnp9puhsVor7rIZhZoNzkuCnCe3b3KEoyaSkUA9w7sBEYqI9C6hShM--w",
+						"aspectRatio": "1",
+						"autogen": False
+					}
+				],
+				"copyright": "Copyright\t© Work on the Edge 2016",
+				"explicitType": "2",
+				"link": "http://www.workontheedge.com/blog/",
+				"continuationToken": ",
+				"totalNumEpisodes": 0
+			},
+			"cluster": [
+				{
+					"type": "9",
+					"category": "1",
+					"id": "search_podcast_series"
+				}
+			]
+		}
+	],
+	"situation_hits": [],
+	"song_hits": [
+		{
+			"type": "1",
+			"track": {
+				"kind": "sj#track",
+				"title": "Who Can It Be Now?",
+				"artist": "Men At Work",
+				"composer": "",
+				"album": "The Best Of Men At Work: Contraband",
+				"albumArtist": "Men At Work",
+				"year": 1996,
+				"trackNumber": 1,
+				"genre": "Alternative/Indie",
+				"durationMillis": "200000",
+				"albumArtRef": [
+					{
+						"kind": "sj#imageRef",
+						"url": "http://lh4.ggpht.com/w3DH4-SE0cUf7QTf1EF1A-dNLpvDngvTvARno0xDbXj-nCYKLi_HTsdAiX0_mzZQIMN2X5KdxQ",
+						"aspectRatio": "1",
+						"autogen": "False"
+					}
+				],
+				"discNumber": 1,
+				"estimatedSize": "8022753",
+				"trackType": "7",
+				"storeId": "Truhxood62i3asc72d3oqdb4k74",
+				"albumId": "gafrr2l6qvnvk3jkgagaoe5bje",
+				"artistId": ["mo4bt6lcbmmwbwxfvgbyhxbd44"],
+				"nid": "ruhxood62i3asc72d3oqdb4k74",
+				"trackAvailableForSubscription": "True",
+				"trackAvailableForPurchase": "True",
+				"albumAvailableForPurchase": "True",
+				"explicitType": "2",
+				"primaryVideo": {
+					"kind": "sj#video",
+					"id": "SECVGN4Bsgg",
+					"thumbnails": [
+						{
+							"url": "https://i.ytimg.com/vi/SECVGN4Bsgg/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						}
+					]
+				}
+			},
+			"cluster": [
+				{
+					"type": "1",
+					"category": "1",
+					"id": "search_track"
+				}
+			]
+		}
+	],
+	"station_hits": [
+		{
+			"type": "6",
+			"station": {
+				"kind": "sj#radioStation",
+				"name": "Who Can It Be Now?",
+				"seed": {
+					"kind": "sj#radioSeed",
+					"trackId": "Truhxood62i3asc72d3oqdb4k74",
+					"seedType": "2"
+				},
+				"stationSeeds": [
+					{
+						"kind": "sj#radioSeed",
+						"trackId": "Truhxood62i3asc72d3oqdb4k74",
+						"seedType": "2"
+					}
+				],
+				"imageUrls": [
+					{
+						"kind": "sj#imageRef",
+						"url": "http://lh4.ggpht.com/w3DH4-SE0cUf7QTf1EF1A-dNLpvDngvTvARno0xDbXj-nCYKLi_HTsdAiX0_mzZQIMN2X5KdxQ",
+						"aspectRatio": "1",
+						"autogen": "False"
+					}
+				],
+				"compositeArtRefs": [
+					{
+						"kind": "sj#imageRef",
+						"url": "http://lh3.googleusercontent.com/0jqYEPY7h5-dnKfrik6VTY5Miv2COK1JrH1vJmcYD-m4r3-lLTp_TK3PtzA",
+						"aspectRatio": "4"
+					},
+					{
+						"kind": "sj#imageRef",
+						"url": "http://lh3.googleusercontent.com/34UZdL1GliLEJuDYnPay3b3m-mpK4uZJ1uuTKFKMfa72gNBK7QsSjsnlGg",
+						"aspectRatio": "1"
+					}
+				],
+				"skipEventHistory": []
+			},
+			"cluster": [
+				{
+					"type": "6",
+					"category": "1",
+					"id": "search_radio"
+				}
+			]
+		}
+	],
+	"video_hits": [
+		{
+			"type": "8",
+			"youtube_video": {
+				"kind": "sj#video",
+				"id": "SECVGN4Bsgg",
+				"title": "Men At Work - Who Can It Be Now? (Official Video)",
+				"thumbnails": [
+					{
+						"url": "https://i.ytimg.com/vi/SECVGN4Bsgg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					}
+				]
+			},
+			"score": 49628.73828125,
+			"cluster": [
+				{
+					"type": "8",
+					"category": "1",
+					"id": "search_video"
+				}
+			]
+		}
+	]
+}

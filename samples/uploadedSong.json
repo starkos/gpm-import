@@ -1,0 +1,32 @@
+{
+	"kind": "sj#track",
+	"id": "efdd1cba-3311-33d7-8d4d-f4427668c9e1",
+	"clientId": "zIJa+W4p4jcPqP2D59BUKA",
+	"creationTimestamp": "1582463400096800",
+	"lastModifiedTimestamp": "1582463419768383",
+	"recentTimestamp": "1582463400095000",
+	"deleted": "False",
+	"title": "Ohio's Rhythm",
+	"artist": "Barefoot Gravediggers",
+	"composer": "",
+	"album": "Chewing Lessons de España",
+	"albumArtist": "Barefoot Gravediggers",
+	"year": 1993,
+	"comment": "",
+	"trackNumber": 2,
+	"genre": "",
+	"durationMillis": "186697",
+	"beatsPerMinute": 0,
+	"albumArtRef": [
+		{
+			"kind": "sj#imageRef",
+			"url": "http://lh3.googleusercontent.com/xfP5phEjHRg_Z_0gCcs0aUlZC6k0G3b-okK37IV83MjtOzaG3cJTnQxsiIgE"
+		}
+	],
+	"playCount": 0,
+	"totalTrackCount": 0,
+	"discNumber": 0,
+	"totalDiscCount": 0,
+	"rating": "0",
+	"estimatedSize": "6481890"
+}
