@@ -1,0 +1,74 @@
+{
+	"kind": "sj#playlist",
+	"id": "cb5217d1-03d2-485b-ad36-fb9ccaab6048",
+	"creationTimestamp": "1584891267478364",
+	"lastModifiedTimestamp": "1584892009085081",
+	"recentTimestamp": "1584891267337000",
+	"deleted": "False",
+	"name": "Quarantine Morning",
+	"type": "USER_GENERATED",
+	"shareToken": "AMaBXymTWlRUZE-blHERQlmE9ybfz6uj6V81akc5rSZUU97wZVG6YM0Vx1Tdv_t5YFWmv0rUCeE27qaKkdhwqnVVtT5ji44lpA==",
+	"ownerName": "Jason Perkins",
+	"ownerProfilePhotoUrl": "http://lh3.googleusercontent.com/a-/AOh14GhyX4zr7l_-FsB6kNx7F0CtzYkCi3VrciEcBu1LCw",
+	"accessControlled": "True",
+	"tracks": [
+		{
+			"kind": "sj#playlistEntry",
+			"id": "db2118f7-5b8a-331b-9328-4ca3b203ac17",
+			"clientId": "714a7a4e-3add-4f37-9ba6-8bf470a7038a",
+			"playlistId": "cb5217d1-03d2-485b-ad36-fb9ccaab6048",
+			"absolutePosition": "01729382256910270462",
+			"trackId": "Tt3s6g3nh7hyavy4ikwv4ci5nye",
+			"creationTimestamp": "1584891286614460",
+			"lastModifiedTimestamp": "1584891286614460",
+			"deleted": "False",
+			"source": "2",
+			"track": {
+				"kind": "sj#track",
+				"title": "Good Times Bad Times (Remaster)",
+				"artist": "Led Zeppelin",
+				"composer": "",
+				"album": "Led Zeppelin",
+				"albumArtist": "Led Zeppelin",
+				"year": 1969,
+				"trackNumber": 1,
+				"genre": "Classic Metal",
+				"durationMillis": "166000",
+				"albumArtRef": [
+					{
+						"kind": "sj#imageRef",
+						"url": "http://lh3.googleusercontent.com/j08cWB5lmJh5A8y8Q3DStO20Nr-s8PdOpeGYKHJIiAvgmDK1-2ik68raPbA2Vb_Upr0jhP1m1w4",
+						"aspectRatio": "1",
+						"autogen": "False"
+					}
+				],
+				"artistArtRef": [
+					{
+						"kind": "sj#imageRef",
+						"url": "http://lh3.googleusercontent.com/AXAy8v_NlDb4tokaGBryf2Z-BkFagZ161_PWJKy17lKqus33VWYSUC0GxvEaUcJwfHw7Ll4jBw",
+						"aspectRatio": "2",
+						"autogen": "False"
+					},
+					{
+						"kind": "sj#imageRef",
+						"url": "http://lh3.googleusercontent.com/pVRK9FhzwUI41Hna_bsYb8bi-dIJv_ECScggWOILNP1-0gpEu_CqVEDBPesPEH7cNX5E7bnp",
+						"aspectRatio": "1",
+						"autogen": "False"
+					}
+				],
+				"playCount": 1,
+				"discNumber": 1,
+				"estimatedSize": "6646623",
+				"trackType": "7",
+				"storeId": "Tt3s6g3nh7hyavy4ikwv4ci5nye",
+				"albumId": "B3vqopyqlvugrkcbcvmrtgtnl3y",
+				"artistId": ["Acemvtift2nm3rpqajajuvo5eva"],
+				"nid": "t3s6g3nh7hyavy4ikwv4ci5nye",
+				"trackAvailableForSubscription": "True",
+				"trackAvailableForPurchase": "True",
+				"albumAvailableForPurchase": "False",
+				"explicitType": "2"
+			}
+		}
+	]
+}
